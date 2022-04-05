@@ -1,9 +1,25 @@
 {
   "posts": [
-    { "sentimento": "Amado", "referenciaImagem": "https://cdn.emojidex.com/emoji/seal/two_hearts.png" },
     { "sentimento": "Alegre", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beaming-face-with-smiling-eyes_1f601.png" },
+    { "sentimento": "Confiante", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/smiling-face-with-hearts_1f970.png" },
     { "sentimento": "Triste", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/loudly-crying-face_1f62d.png" },
-    { "sentimento": "Raivoso", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/pouting-face_1f621.png" }
+    { "sentimento": "Raivoso", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/pouting-face_1f621.png" },
+    
+    { "sentimento": "Calmo", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beaming-face-with-smiling-eyes_1f601.png" },
+    { "sentimento": "Estressado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/smiling-face-with-hearts_1f970.png" },
+    { "sentimento": "Ansioso", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/loudly-crying-face_1f62d.png" },
+    { "sentimento": "Animado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/pouting-face_1f621.png" },
+    
+    { "sentimento": "Brincalhão", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beaming-face-with-smiling-eyes_1f601.png" },
+    { "sentimento": "Orgulhoso", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/smiling-face-with-hearts_1f970.png" },
+    { "sentimento": "Grato", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/loudly-crying-face_1f62d.png" },
+    { "sentimento": "Cansado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/pouting-face_1f621.png" },
+    
+    { "sentimento": "Inseguro", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beaming-face-with-smiling-eyes_1f601.png" },
+    { "sentimento": "Amigável", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/smiling-face-with-hearts_1f970.png" },
+    { "sentimento": "Otimista", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/loudly-crying-face_1f62d.png" },
+    { "sentimento": "Entediado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/pouting-face_1f621.png" },
+    
   ],
   "profile": {
     "name": "joaofaria"
