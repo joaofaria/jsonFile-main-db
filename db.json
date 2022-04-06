@@ -28,7 +28,7 @@
     { "sentimento": "Orgulhoso", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/face-holding-back-tears_1f979.png" },
     { "sentimento": "Grato", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/star-struck_1f929.png" },
     { "sentimento": "Cansado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/yawning-face_1f971.png" }, 
-    { "sentimento": "Inseguro", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/face-exhaling_1f62e-200d-1f4a8.png" },
+    { "sentimento": "Inseguro", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/face-exhaling_1f62e-200d-1f4a8.png" }
   ],
   "profile": {
     "name": "joaofaria"
