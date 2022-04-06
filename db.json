@@ -16,7 +16,7 @@
     { "sentimento": "Amigável", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/partying-face_1f973.png" },
     { "sentimento": "Otimista", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/hugging-face_1f917.png" },
     { "sentimento": "Entediado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/sleepy-face_1f62a.png" },
-    {"sentimento": "Animado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/grinning-squinting-face_1f606.png" }
+    { "sentimento": "Animado", "referenciaImagem": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/grinning-squinting-face_1f606.png" }
   ],
   "profile": {
     "name": "joaofaria"
